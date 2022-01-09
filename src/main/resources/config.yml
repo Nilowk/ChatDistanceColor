@@ -1,0 +1,12 @@
+style:
+  format: "{COLOR}{NAME}: {MESSAGE}"
+
+distance_color:
+  0: "&f"
+  10: "&7"
+  25: "&4"
+  50: "&8"
+  100: "&0"
+  max: 110
+  # possible de mettre autant de valeur que l'on veut
+

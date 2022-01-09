@@ -1,0 +1,5 @@
+name: ChatDistance
+version: 1.0.00
+author: Nilowk
+main: fr.nilowk.chat.Main
+api-version: 1.16
